@@ -15,49 +15,49 @@ My approach is simple: understand the problem, break it into smaller pieces, tes
 
 Data Analysis & Programming
 
--Python
--Pandas
--NumPy
--Data cleaning and transformation
--Exploratory Data Analysis (EDA)
--Feature engineering
--Statistical analysis
+- Python
+- Pandas
+- NumPy
+- Data cleaning and transformation
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Statistical analysis
 
 SQL & Databases
 
 PostgreSQL
--SQLite
--Complex queries and CTEs
--Window functions
--Aggregations and analytical queries
--Data validation and quality checks
+- SQLite
+- Complex queries and CTEs
+- Window functions
+- Aggregations and analytical queries
+- Data validation and quality checks
 
 Business Intelligence
 
--Power BI
--Data modeling
--KPI development
--Interactive dashboards
--Drill-through analysis
--Business-oriented reporting
+- Power BI
+- Data modeling
+- KPI development
+- Interactive dashboards
+- Drill-through analysis
+- Business-oriented reporting
 
 Machine Learning
 
--Scikit-learn
--Random Forest
--Classification models
--Feature engineering
--ROC-AUC, precision, recall and F1 evaluation
--Train / validation / test workflows
--Human-in-the-loop learning systems
+- Scikit-learn
+- Random Forest
+- Classification models
+- Feature engineering
+- ROC-AUC, precision, recall and F1 evaluation
+- Train / validation / test workflows
+- Human-in-the-loop learning systems
 
 Tools
 
--Git & GitHub
--Streamlit
--VS Code
--Jupyter Notebook
--DBeaver / pgAdmin / DB Browser for SQLite
+- Git & GitHub
+- Streamlit
+- VS Code
+- Jupyter Notebook
+- DBeaver / pgAdmin / DB Browser for SQLite
 
 🚀 Featured Projects
 
@@ -69,13 +69,13 @@ The project combines historical data acquisition, database design, SQL analytics
 
 Highlights
 
--Automated historical data pipeline
--Multi-season SQLite database
--SQL analytical layer
--Historical validation
--Interactive Streamlit simulator
--Power BI reporting
--Reproducible end-to-end workflow
+- Automated historical data pipeline
+- Multi-season SQLite database
+- SQL analytical layer
+- Historical validation
+- Interactive Streamlit simulator
+- Power BI reporting
+- Reproducible end-to-end workflow
 
 Stack: Python · SQL · SQLite · Streamlit · Power BI
 
@@ -88,13 +88,13 @@ Instead of treating chart analysis as a simple image-classification problem, the
 
 Highlights
 
--Custom labelled dataset
--Feature engineering for trendline candidates
--Random Forest classification and ranking
--Train / validation / test evaluation
--Detection on previously unseen charts
--Grouping of similar predictions into trendline families
--Interactive expert validation and correction workflow
+- Custom labelled dataset
+- Feature engineering for trendline candidates
+- Random Forest classification and ranking
+- Train / validation / test evaluation
+- Detection on previously unseen charts
+- Grouping of similar predictions into trendline families
+- Interactive expert validation and correction workflow
 
 Stack: Python · Pandas · Scikit-learn · Machine Learning · Computer Vision concepts
 
@@ -105,11 +105,11 @@ Analysis of more than 85,000 emergency department records, focused on operationa
 
 Highlights
 
--Automated Python cleaning pipeline
--Length-of-stay and cost analysis
--Operational KPIs
--Data-quality monitoring
--Interactive Power BI dashboards
+- Automated Python cleaning pipeline
+- Length-of-stay and cost analysis
+- Operational KPIs
+- Data-quality monitoring
+- Interactive Power BI dashboards
 
 Stack: Python · Pandas · Power BI
 
@@ -120,11 +120,11 @@ End-to-end analysis of the Brazilian Olist e-commerce dataset, integrating multi
 
 Highlights
 
--Multi-table data integration
--Data cleaning and transformation
--Customer, product and geographic analysis
--Business KPI generation
--Power BI visualization
+- Multi-table data integration
+- Data cleaning and transformation
+- Customer, product and geographic analysis
+- Business KPI generation
+- Power BI visualization
 
 Stack: Python · Pandas · Power BI
 
@@ -135,11 +135,11 @@ Customer churn analysis focused on identifying risk patterns and commercially re
 
 Highlights
 
--Data preparation and validation
--PostgreSQL analysis
--Churn segmentation
--Revenue-at-risk analysis
--Interactive dashboard
+- Data preparation and validation
+- PostgreSQL analysis
+- Churn segmentation
+- Revenue-at-risk analysis
+- Interactive dashboard
 
 Stack: Python · PostgreSQL · SQL · Power BI
 
@@ -148,11 +148,11 @@ Stack: Python · PostgreSQL · SQL · Power BI
 
 My projects typically follow the complete analytical workflow:
 
--Raw Data → Cleaning → Validation → SQL / Python Analysis → KPIs → Visualization → Conclusions
+- Raw Data → Cleaning → Validation → SQL / Python Analysis → KPIs → Visualization → Conclusions
 
 For more complex projects:
 
--Data → Feature Engineering → Model → Evaluation → Human Validation → Iteration
+- Data → Feature Engineering → Model → Evaluation → Human Validation → Iteration
 
 I focus not only on obtaining results, but also on understanding why they occur, whether they can be trusted, and how they can be used to support a decision.
 
@@ -160,11 +160,11 @@ I focus not only on obtaining results, but also on understanding why they occur,
 
 I'm continuing to strengthen my skills in:
 
--Advanced SQL
--Statistical inference and hypothesis testing
--Machine learning
--Data visualization and storytelling
--End-to-end analytics engineering
+- Advanced SQL
+- Statistical inference and hypothesis testing
+- Machine learning
+- Data visualization and storytelling
+- End-to-end analytics engineering
 
 📫 Contact
 
