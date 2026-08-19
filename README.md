@@ -25,7 +25,7 @@ Data Analysis & Programming
 
 SQL & Databases
 
-PostgreSQL
+- PostgreSQL
 - SQLite
 - Complex queries and CTEs
 - Window functions
