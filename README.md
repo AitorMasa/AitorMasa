@@ -77,11 +77,9 @@ I'm strengthening my foundations in statistics, SQL, data visualization and coll
 
 I'm open to Data Analyst and BI Analyst opportunities, including remote roles. 
 
-Email: aitor.masa@outlook.es
-
 📫 Contact
 
 📍 Bilbao, Spain
 📧 aitor.masa@outlook.es
 
-Open to Data Analyst / BI Analyst opportunities, including remote positions.
+
