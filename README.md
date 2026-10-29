@@ -2,169 +2,82 @@
 
 ### Data Analyst | Python · SQL · Power BI
 
-I'm a Data Analyst focused on turning raw data into structured, useful and interpretable information.
+I'm a data analyst based in Bilbao, Spain. I work on projects that take data from its raw state through cleaning, 
+validation, analysis and visualization. I want the final result to be useful to someone making a decision,
+ and I care about being able to explain how I got there.
 
-My path into data analytics has been built through **self-directed, project-based learning**, following a progressive roadmap from Python fundamentals to Pandas, SQL, Power BI, Git and machine learning. I use AI tools as part of this learning and development workflow — to accelerate research, challenge ideas and support problem solving — while building, testing and validating the projects myself.
+I'm currently studying in the Data Sciencist bootcamp at The Bridge. 
+Before joining, I built my skills through self-directed projects in Python, Pandas, SQL, Power BI and machine learning. 
+I still learn by building: I break a problem into smaller questions, test my assumptions and revise the work when the evidence changes. 
+I use AI tools to research ideas and challenge my approach, while checking the code and results myself.
 
-I build **end-to-end analytics projects**, from data collection and cleaning to SQL analysis, visualization and interactive applications. I particularly enjoy problems that don't have an obvious predefined solution and require **critical thinking, analytical reasoning and experimentation**.
+## What I work on
 
-My approach is simple: understand the problem, break it into smaller pieces, test assumptions, validate the results and iterate when something doesn't work.
+- Preparing messy data and checking its quality before analysis.
+- Exploring patterns with Python and SQL, then turning them into clear KPIs.
+- Building dashboards and interactive tools that make the findings easier to use.
+- Evaluating models and understanding where their predictions can fail.
 
+## Featured projects
 
-🛠️ Tech Stack
+### [Quiniela Analytics Platform](https://github.com/AitorMasa/quiniela-analytics-platform)
 
-Data Analysis & Programming
+An analytics platform built around historical results from the Spanish La Quiniela football pool. 
+It brings together an automated data pipeline, a multi-season SQLite database and a SQL analysis layer. 
+A Streamlit simulator lets users explore historical patterns and test strategies, with Power BI reports for visual analysis.
 
-- Python
-- Pandas
-- NumPy
-- Data cleaning and transformation
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Statistical analysis
+**Stack:** Python · SQLite · SQL · Streamlit · Power BI
 
-SQL & Databases
+### [HiddenEdge — Financial Trendline Detection](https://github.com/AitorMasa/HiddenEdge-Portfolio)
 
-- PostgreSQL
-- SQLite
-- Complex queries and CTEs
-- Window functions
-- Aggregations and analytical queries
-- Data validation and quality checks
+A human-in-the-loop machine learning project for detecting trendlines in financial time-series charts. 
+It generates candidates, builds features, ranks them with a Random Forest model and uses expert review to assess and improve the results. 
+The project includes evaluation on charts the model had not previously seen.
 
-Business Intelligence
+**Stack:** Python · Pandas · Scikit-learn · Machine Learning
 
-- Power BI
-- Data modeling
-- KPI development
-- Interactive dashboards
-- Drill-through analysis
-- Business-oriented reporting
+### [Hospital Emergency Analysis](https://github.com/AitorMasa/hospital-emergency-analysis)
 
-Machine Learning
+An analysis of more than 85,000 emergency department records. 
+The project focuses on cleaning and validating the data before examining length of stay, costs and operational performance. 
+Its dashboards bring together KPIs and data-quality measures so the findings can be reviewed in context.
 
-- Scikit-learn
-- Random Forest
-- Classification models
-- Feature engineering
-- ROC-AUC, precision, recall and F1 evaluation
-- Train / validation / test workflows
-- Human-in-the-loop learning systems
+**Stack:** Python · Pandas · Power BI
 
-Tools
+### [Olist E-commerce Analysis](https://github.com/AitorMasa/olist-ecommerce-analysis)
 
-- Git & GitHub
-- Streamlit
-- VS Code
-- Jupyter Notebook
-- DBeaver / pgAdmin / DB Browser for SQLite
+An end-to-end analysis of the Brazilian Olist e-commerce dataset. 
+It combines related tables, cleans and transforms the data, then explores customers, products, geography and business performance through KPIs and visualizations.
 
-🚀 Featured Projects
+**Stack:** Python · Pandas · Power BI
 
-⚽ Quiniela Analytics Platform
+### [Telco Customer Churn](https://github.com/AitorMasa/telco-churn-analysis)
 
-An end-to-end analytics platform built around the Spanish La Quiniela football pool.
+A customer churn analysis using Python and PostgreSQL. 
+It examines customer segments and revenue at risk, then presents the findings in an interactive dashboard to make the patterns easier to investigate.
 
-The project combines historical data acquisition, database design, SQL analytics and an interactive application to explore historical patterns and simulate betting strategies.
+**Stack:** Python · PostgreSQL · SQL · Power BI
 
-Highlights
+## Tools and approach
 
-- Automated historical data pipeline
-- Multi-season SQLite database
-- SQL analytical layer
-- Historical validation
-- Interactive Streamlit simulator
-- Power BI reporting
-- Reproducible end-to-end workflow
+**Analysis:** Python, Pandas, NumPy, SQL, PostgreSQL, SQLite and Jupyter Notebook  
+**Visualization and apps:** Power BI and Streamlit  
+**Machine learning:** Scikit-learn, feature engineering and model evaluation  
+**Workflow:** Git, GitHub and VS Code
 
-Stack: Python · SQL · SQLite · Streamlit · Power BI
+My usual process is: understand the question → prepare the data → validate it → analyse it → communicate the result. 
+I pay particular attention to whether a result is trustworthy and what its limitations mean for a decision.
 
+## Currently developing
 
-📈 HiddenEdge — Financial Trendline Detection
+Through the Data Analytics bootcamp at The Bridge, 
+I'm strengthening my foundations in statistics, SQL, data visualization and collaborative development while continuing to build portfolio projects.
 
-A human-in-the-loop machine learning system for detecting meaningful trendlines in financial time-series charts.
+## Contact
 
-Instead of treating chart analysis as a simple image-classification problem, the project combines automated candidate generation, ML ranking and expert feedback.
+I'm open to Data Analyst and BI Analyst opportunities, including remote roles. 
 
-Highlights
-
-- Custom labelled dataset
-- Feature engineering for trendline candidates
-- Random Forest classification and ranking
-- Train / validation / test evaluation
-- Detection on previously unseen charts
-- Grouping of similar predictions into trendline families
-- Interactive expert validation and correction workflow
-
-Stack: Python · Pandas · Scikit-learn · Machine Learning · Computer Vision concepts
-
-
-🏥 Hospital Emergency Analysis
-
-Analysis of more than 85,000 emergency department records, focused on operational performance and data quality.
-
-Highlights
-
-- Automated Python cleaning pipeline
-- Length-of-stay and cost analysis
-- Operational KPIs
-- Data-quality monitoring
-- Interactive Power BI dashboards
-
-Stack: Python · Pandas · Power BI
-
-
-🛒 Olist E-commerce Analysis
-
-End-to-end analysis of the Brazilian Olist e-commerce dataset, integrating multiple relational data sources.
-
-Highlights
-
-- Multi-table data integration
-- Data cleaning and transformation
-- Customer, product and geographic analysis
-- Business KPI generation
-- Power BI visualization
-
-Stack: Python · Pandas · Power BI
-
-
-📊 Telco Customer Churn
-
-Customer churn analysis focused on identifying risk patterns and commercially relevant customer segments.
-
-Highlights
-
-- Data preparation and validation
-- PostgreSQL analysis
-- Churn segmentation
-- Revenue-at-risk analysis
-- Interactive dashboard
-
-Stack: Python · PostgreSQL · SQL · Power BI
-
-
-🔎 How I Work
-
-My projects typically follow the complete analytical workflow:
-
-- Raw Data → Cleaning → Validation → SQL / Python Analysis → KPIs → Visualization → Conclusions
-
-For more complex projects:
-
-- Data → Feature Engineering → Model → Evaluation → Human Validation → Iteration
-
-I focus not only on obtaining results, but also on understanding why they occur, whether they can be trusted, and how they can be used to support a decision.
-
-📚 Currently Developing
-
-I'm continuing to strengthen my skills in:
-
-- Advanced SQL
-- Statistical inference and hypothesis testing
-- Machine learning
-- Data visualization and storytelling
-- End-to-end analytics engineering
+Email: aitor.masa@outlook.es
 
 📫 Contact
 
